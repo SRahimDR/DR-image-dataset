@@ -42,7 +42,7 @@ You can download the dataset directly using:
 git clone https://github.com/SRahimDR/DR-image-dataset.git
 
 @misc{SRahim2025retinal,
-  title={Retinal Fundus Image Dataset Diabetic Retinopathy Detection},
+  title={Retinal Fundus Image Dataset for Diabetic Retinopathy Detection},
   author={Rahim S. S},
   year={2025},
   howpublished={\url{https://github.com/SRahim/DR-image-dataset}}
