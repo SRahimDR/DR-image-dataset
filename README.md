@@ -1,6 +1,3 @@
-# DR-image-dataset
-Eye fundus images for diabetic retinopathy detection
-
 # Retinal Fundus Image Dataset for Diabetic Retinopathy Detection
 This is an open-source dataset of retinal fundus images collected for the purpose of developing and benchmarking machine learning models for **diabetic retinopathy and maculopathy detection**.
 
